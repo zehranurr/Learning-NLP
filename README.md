@@ -16,3 +16,9 @@
 - N-Gram modelleri 
 - Word Embeddings
 - Transformer Tabanlı Metinli Temsili 
+
+
+## Olasılıksal Dil Modelleri
+- N-Gram Modelleri 
+- Gizli Markow modelleri (hidden markow models HMM)
+- Maximum Entropy modelleri (MaxEnt)
