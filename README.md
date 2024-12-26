@@ -22,3 +22,9 @@
 - N-Gram Modelleri 
 - Gizli Markow modelleri (hidden markow models HMM)
 - Maximum Entropy modelleri (MaxEnt)
+
+## Derin öğrenme Tabanlı Modern Dil Modelleri
+- Word Embeddings (Kelimelerin vektör temsilleri)
+- Recurrent Neural Networks (RNN)
+- Long Short-Term Memory (LSTM)
+- Transformers Modelleri :Bert ,GPT,LLAMA
